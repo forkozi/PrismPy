@@ -1,0 +1,2892 @@
+{
+  "0": {
+    "0": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Nav-marker",
+        "PST": "('Nav-marker', nan, nan)",
+        "PST_idx": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1": {
+    "1": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Bracelet",
+        "PST": "('Anode', 'Bracelet', nan)",
+        "PST_idx": [
+          1,
+          1,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Bracelet",
+        "TertiaryDescription": "slight wastage (0-25%)",
+        "PST": "('Anode', 'Bracelet', 'slight wastage (0-25%)')",
+        "PST_idx": [
+          1,
+          1,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Bracelet",
+        "TertiaryDescription": "moderate wastage (25-50%)",
+        "PST": "('Anode', 'Bracelet', 'moderate wastage (25-50%)')",
+        "PST_idx": [
+          1,
+          1,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Bracelet",
+        "TertiaryDescription": "heavy wastage (50-75%)",
+        "PST": "('Anode', 'Bracelet', 'heavy wastage (50-75%)')",
+        "PST_idx": [
+          1,
+          1,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Bracelet",
+        "TertiaryDescription": "total wastage (75-100%)",
+        "PST": "('Anode', 'Bracelet', 'total wastage (75-100%)')",
+        "PST_idx": [
+          1,
+          1,
+          4
+        ]
+      },
+      "5": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Bracelet",
+        "TertiaryDescription": "clamp only seen",
+        "PST": "('Anode', 'Bracelet', 'clamp only seen')",
+        "PST_idx": [
+          1,
+          1,
+          5
+        ]
+      },
+      "6": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Bracelet",
+        "TertiaryDescription": "buried",
+        "PST": "('Anode', 'Bracelet', 'buried')",
+        "PST_idx": [
+          1,
+          1,
+          6
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Remote clamp",
+        "PST": "('Anode', 'Remote clamp', nan)",
+        "PST_idx": [
+          1,
+          2,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Remote clamp",
+        "TertiaryDescription": "slight wastage",
+        "PST": "('Anode', 'Remote clamp', 'slight wastage')",
+        "PST_idx": [
+          1,
+          2,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Remote clamp",
+        "TertiaryDescription": "moderate wastage",
+        "PST": "('Anode', 'Remote clamp', 'moderate wastage')",
+        "PST_idx": [
+          1,
+          2,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Remote clamp",
+        "TertiaryDescription": "heavy wastage",
+        "PST": "('Anode', 'Remote clamp', 'heavy wastage')",
+        "PST_idx": [
+          1,
+          2,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Remote clamp",
+        "TertiaryDescription": "total wastage",
+        "PST": "('Anode', 'Remote clamp', 'total wastage')",
+        "PST_idx": [
+          1,
+          2,
+          4
+        ]
+      },
+      "5": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Remote clamp",
+        "TertiaryDescription": "clamp only seen",
+        "PST": "('Anode', 'Remote clamp', 'clamp only seen')",
+        "PST_idx": [
+          1,
+          2,
+          5
+        ]
+      },
+      "6": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Remote clamp",
+        "TertiaryDescription": "buried",
+        "PST": "('Anode', 'Remote clamp', 'buried')",
+        "PST_idx": [
+          1,
+          2,
+          6
+        ]
+      }
+    },
+    "3": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Remote sled",
+        "PST": "('Anode', 'Remote sled', nan)",
+        "PST_idx": [
+          1,
+          3,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Remote sled",
+        "TertiaryDescription": "slight wastage",
+        "PST": "('Anode', 'Remote sled', 'slight wastage')",
+        "PST_idx": [
+          1,
+          3,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Remote sled",
+        "TertiaryDescription": "moderate wastage",
+        "PST": "('Anode', 'Remote sled', 'moderate wastage')",
+        "PST_idx": [
+          1,
+          3,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Remote sled",
+        "TertiaryDescription": "heavy wastage",
+        "PST": "('Anode', 'Remote sled', 'heavy wastage')",
+        "PST_idx": [
+          1,
+          3,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Remote sled",
+        "TertiaryDescription": "total wastage",
+        "PST": "('Anode', 'Remote sled', 'total wastage')",
+        "PST_idx": [
+          1,
+          3,
+          4
+        ]
+      },
+      "5": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Remote sled",
+        "TertiaryDescription": "clamp only seen",
+        "PST": "('Anode', 'Remote sled', 'clamp only seen')",
+        "PST_idx": [
+          1,
+          3,
+          5
+        ]
+      },
+      "6": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Remote sled",
+        "TertiaryDescription": "buried",
+        "PST": "('Anode', 'Remote sled', 'buried')",
+        "PST_idx": [
+          1,
+          3,
+          6
+        ]
+      }
+    },
+    "4": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Anode",
+        "SecondaryDescription": "Bar",
+        "PST": "('Anode', 'Bar', nan)",
+        "PST_idx": [
+          1,
+          4,
+          0
+        ]
+      }
+    }
+  },
+  "2": {
+    "1": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Field Joint",
+        "SecondaryDescription": "Normal",
+        "PST": "('Field Joint', 'Normal', nan)",
+        "PST_idx": [
+          2,
+          1,
+          0
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Field Joint",
+        "SecondaryDescription": "Buckle arrestor",
+        "PST": "('Field Joint', 'Buckle arrestor', nan)",
+        "PST_idx": [
+          2,
+          2,
+          0
+        ]
+      }
+    }
+  },
+  "3": {
+    "1": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Concrete saddle",
+        "PST": "('Stabilisation', 'Concrete saddle', nan)",
+        "PST_idx": [
+          3,
+          1,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Concrete saddle",
+        "TertiaryDescription": "Start",
+        "PST": "('Stabilisation', 'Concrete saddle', 'Start')",
+        "PST_idx": [
+          3,
+          1,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Concrete saddle",
+        "TertiaryDescription": "End",
+        "PST": "('Stabilisation', 'Concrete saddle', 'End')",
+        "PST_idx": [
+          3,
+          1,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Concrete saddle",
+        "TertiaryDescription": "continuing",
+        "PST": "('Stabilisation', 'Concrete saddle', 'continuing')",
+        "PST_idx": [
+          3,
+          1,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Concrete saddle",
+        "TertiaryDescription": "displaced",
+        "PST": "('Stabilisation', 'Concrete saddle', 'displaced')",
+        "PST_idx": [
+          3,
+          1,
+          4
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Canvas mattress",
+        "PST": "('Stabilisation', 'Canvas mattress', nan)",
+        "PST_idx": [
+          3,
+          2,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Canvas mattress",
+        "TertiaryDescription": "Start",
+        "PST": "('Stabilisation', 'Canvas mattress', 'Start')",
+        "PST_idx": [
+          3,
+          2,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Canvas mattress",
+        "TertiaryDescription": "End",
+        "PST": "('Stabilisation', 'Canvas mattress', 'End')",
+        "PST_idx": [
+          3,
+          2,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Canvas mattress",
+        "TertiaryDescription": "continuing",
+        "PST": "('Stabilisation', 'Canvas mattress', 'continuing')",
+        "PST_idx": [
+          3,
+          2,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Canvas mattress",
+        "TertiaryDescription": "displaced",
+        "PST": "('Stabilisation', 'Canvas mattress', 'displaced')",
+        "PST_idx": [
+          3,
+          2,
+          4
+        ]
+      }
+    },
+    "3": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Netting mattress",
+        "PST": "('Stabilisation', 'Netting mattress', nan)",
+        "PST_idx": [
+          3,
+          3,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Netting mattress",
+        "TertiaryDescription": "Start",
+        "PST": "('Stabilisation', 'Netting mattress', 'Start')",
+        "PST_idx": [
+          3,
+          3,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Netting mattress",
+        "TertiaryDescription": "End",
+        "PST": "('Stabilisation', 'Netting mattress', 'End')",
+        "PST_idx": [
+          3,
+          3,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Netting mattress",
+        "TertiaryDescription": "continuing",
+        "PST": "('Stabilisation', 'Netting mattress', 'continuing')",
+        "PST_idx": [
+          3,
+          3,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Netting mattress",
+        "TertiaryDescription": "displaced",
+        "PST": "('Stabilisation', 'Netting mattress', 'displaced')",
+        "PST_idx": [
+          3,
+          3,
+          4
+        ]
+      }
+    },
+    "4": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Flexiweight",
+        "PST": "('Stabilisation', 'Flexiweight', nan)",
+        "PST_idx": [
+          3,
+          4,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Flexiweight",
+        "TertiaryDescription": "Start",
+        "PST": "('Stabilisation', 'Flexiweight', 'Start')",
+        "PST_idx": [
+          3,
+          4,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Flexiweight",
+        "TertiaryDescription": "End",
+        "PST": "('Stabilisation', 'Flexiweight', 'End')",
+        "PST_idx": [
+          3,
+          4,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Flexiweight",
+        "TertiaryDescription": "continuing",
+        "PST": "('Stabilisation', 'Flexiweight', 'continuing')",
+        "PST_idx": [
+          3,
+          4,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Flexiweight",
+        "TertiaryDescription": "displaced",
+        "PST": "('Stabilisation', 'Flexiweight', 'displaced')",
+        "PST_idx": [
+          3,
+          4,
+          4
+        ]
+      }
+    },
+    "5": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Mattress",
+        "PST": "('Stabilisation', 'Mattress', nan)",
+        "PST_idx": [
+          3,
+          5,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Mattress",
+        "TertiaryDescription": "Start",
+        "PST": "('Stabilisation', 'Mattress', 'Start')",
+        "PST_idx": [
+          3,
+          5,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Mattress",
+        "TertiaryDescription": "End",
+        "PST": "('Stabilisation', 'Mattress', 'End')",
+        "PST_idx": [
+          3,
+          5,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Mattress",
+        "TertiaryDescription": "continuing",
+        "PST": "('Stabilisation', 'Mattress', 'continuing')",
+        "PST_idx": [
+          3,
+          5,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Mattress",
+        "TertiaryDescription": "displaced",
+        "PST": "('Stabilisation', 'Mattress', 'displaced')",
+        "PST_idx": [
+          3,
+          5,
+          4
+        ]
+      }
+    },
+    "6": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Artificial seaweed",
+        "PST": "('Stabilisation', 'Artificial seaweed', nan)",
+        "PST_idx": [
+          3,
+          6,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Artificial seaweed",
+        "TertiaryDescription": "Start",
+        "PST": "('Stabilisation', 'Artificial seaweed', 'Start')",
+        "PST_idx": [
+          3,
+          6,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Artificial seaweed",
+        "TertiaryDescription": "End",
+        "PST": "('Stabilisation', 'Artificial seaweed', 'End')",
+        "PST_idx": [
+          3,
+          6,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Artificial seaweed",
+        "TertiaryDescription": "continuing",
+        "PST": "('Stabilisation', 'Artificial seaweed', 'continuing')",
+        "PST_idx": [
+          3,
+          6,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Artificial seaweed",
+        "TertiaryDescription": "Displaced",
+        "PST": "('Stabilisation', 'Artificial seaweed', 'Displaced')",
+        "PST_idx": [
+          3,
+          6,
+          4
+        ]
+      }
+    },
+    "7": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Rockdump",
+        "PST": "('Stabilisation', 'Rockdump', nan)",
+        "PST_idx": [
+          3,
+          7,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Rockdump",
+        "TertiaryDescription": "Start",
+        "PST": "('Stabilisation', 'Rockdump', 'Start')",
+        "PST_idx": [
+          3,
+          7,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Rockdump",
+        "TertiaryDescription": "End",
+        "PST": "('Stabilisation', 'Rockdump', 'End')",
+        "PST_idx": [
+          3,
+          7,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Rockdump",
+        "TertiaryDescription": "continuing",
+        "PST": "('Stabilisation', 'Rockdump', 'continuing')",
+        "PST_idx": [
+          3,
+          7,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Rockdump",
+        "TertiaryDescription": "displaced",
+        "PST": "('Stabilisation', 'Rockdump', 'displaced')",
+        "PST_idx": [
+          3,
+          7,
+          4
+        ]
+      }
+    },
+    "8": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Sandbag(s)",
+        "PST": "('Stabilisation', 'Sandbag(s)', nan)",
+        "PST_idx": [
+          3,
+          8,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Sandbag(s)",
+        "TertiaryDescription": "Start",
+        "PST": "('Stabilisation', 'Sandbag(s)', 'Start')",
+        "PST_idx": [
+          3,
+          8,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Sandbag(s)",
+        "TertiaryDescription": "End",
+        "PST": "('Stabilisation', 'Sandbag(s)', 'End')",
+        "PST_idx": [
+          3,
+          8,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Sandbag(s)",
+        "TertiaryDescription": "continuing",
+        "PST": "('Stabilisation', 'Sandbag(s)', 'continuing')",
+        "PST_idx": [
+          3,
+          8,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Sandbag(s)",
+        "TertiaryDescription": "displaced",
+        "PST": "('Stabilisation', 'Sandbag(s)', 'displaced')",
+        "PST_idx": [
+          3,
+          8,
+          4
+        ]
+      }
+    },
+    "9": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Groutbag(s)",
+        "PST": "('Stabilisation', 'Groutbag(s)', nan)",
+        "PST_idx": [
+          3,
+          9,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Groutbag(s)",
+        "TertiaryDescription": "Start",
+        "PST": "('Stabilisation', 'Groutbag(s)', 'Start')",
+        "PST_idx": [
+          3,
+          9,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Groutbag(s)",
+        "TertiaryDescription": "End",
+        "PST": "('Stabilisation', 'Groutbag(s)', 'End')",
+        "PST_idx": [
+          3,
+          9,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Groutbag(s)",
+        "TertiaryDescription": "continuing",
+        "PST": "('Stabilisation', 'Groutbag(s)', 'continuing')",
+        "PST_idx": [
+          3,
+          9,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Groutbag(s)",
+        "TertiaryDescription": "Over",
+        "PST": "('Stabilisation', 'Groutbag(s)', 'Over')",
+        "PST_idx": [
+          3,
+          9,
+          4
+        ]
+      },
+      "5": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Groutbag(s)",
+        "TertiaryDescription": "Under",
+        "PST": "('Stabilisation', 'Groutbag(s)', 'Under')",
+        "PST_idx": [
+          3,
+          9,
+          5
+        ]
+      }
+    },
+    "10": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Grout mattresses",
+        "PST": "('Stabilisation', 'Grout mattresses', nan)",
+        "PST_idx": [
+          3,
+          10,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Grout mattresses",
+        "TertiaryDescription": "Start",
+        "PST": "('Stabilisation', 'Grout mattresses', 'Start')",
+        "PST_idx": [
+          3,
+          10,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Grout mattresses",
+        "TertiaryDescription": "End",
+        "PST": "('Stabilisation', 'Grout mattresses', 'End')",
+        "PST_idx": [
+          3,
+          10,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Grout mattresses",
+        "TertiaryDescription": "continuing",
+        "PST": "('Stabilisation', 'Grout mattresses', 'continuing')",
+        "PST_idx": [
+          3,
+          10,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Grout mattresses",
+        "TertiaryDescription": "Over",
+        "PST": "('Stabilisation', 'Grout mattresses', 'Over')",
+        "PST_idx": [
+          3,
+          10,
+          4
+        ]
+      },
+      "5": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Grout mattresses",
+        "TertiaryDescription": "Under",
+        "PST": "('Stabilisation', 'Grout mattresses', 'Under')",
+        "PST_idx": [
+          3,
+          10,
+          5
+        ]
+      }
+    },
+    "11": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Self burial spoiler",
+        "PST": "('Stabilisation', 'Self burial spoiler', nan)",
+        "PST_idx": [
+          3,
+          11,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Self burial spoiler",
+        "TertiaryDescription": "Start",
+        "PST": "('Stabilisation', 'Self burial spoiler', 'Start')",
+        "PST_idx": [
+          3,
+          11,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Self burial spoiler",
+        "TertiaryDescription": "End",
+        "PST": "('Stabilisation', 'Self burial spoiler', 'End')",
+        "PST_idx": [
+          3,
+          11,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Self burial spoiler",
+        "TertiaryDescription": "continuing",
+        "PST": "('Stabilisation', 'Self burial spoiler', 'continuing')",
+        "PST_idx": [
+          3,
+          11,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Self burial spoiler",
+        "TertiaryDescription": "displaced",
+        "PST": "('Stabilisation', 'Self burial spoiler', 'displaced')",
+        "PST_idx": [
+          3,
+          11,
+          4
+        ]
+      }
+    },
+    "12": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Gravel Dump",
+        "PST": "('Stabilisation', 'Gravel Dump', nan)",
+        "PST_idx": [
+          3,
+          12,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Gravel Dump",
+        "TertiaryDescription": "Start",
+        "PST": "('Stabilisation', 'Gravel Dump', 'Start')",
+        "PST_idx": [
+          3,
+          12,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Gravel Dump",
+        "TertiaryDescription": "End",
+        "PST": "('Stabilisation', 'Gravel Dump', 'End')",
+        "PST_idx": [
+          3,
+          12,
+          2
+        ]
+      },
+      "4": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Stabilisation",
+        "SecondaryDescription": "Gravel Dump",
+        "TertiaryDescription": "displaced",
+        "PST": "('Stabilisation', 'Gravel Dump', 'displaced')",
+        "PST_idx": [
+          3,
+          12,
+          4
+        ]
+      }
+    }
+  },
+  "4": {
+    "1": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Pipeline crossing",
+        "PST": "('Other fixed', 'Pipeline crossing', nan)",
+        "PST_idx": [
+          4,
+          1,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Pipeline crossing",
+        "TertiaryDescription": "Over",
+        "PST": "('Other fixed', 'Pipeline crossing', 'Over')",
+        "PST_idx": [
+          4,
+          1,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Pipeline crossing",
+        "TertiaryDescription": "Under",
+        "PST": "('Other fixed', 'Pipeline crossing', 'Under')",
+        "PST_idx": [
+          4,
+          1,
+          2
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Protective structure",
+        "PST": "('Other fixed', 'Protective structure', nan)",
+        "PST_idx": [
+          4,
+          2,
+          0
+        ]
+      }
+    },
+    "3": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Bellmouth",
+        "PST": "('Other fixed', 'Bellmouth', nan)",
+        "PST_idx": [
+          4,
+          3,
+          0
+        ]
+      }
+    },
+    "4": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Flange",
+        "PST": "('Other fixed', 'Flange', nan)",
+        "PST_idx": [
+          4,
+          4,
+          0
+        ]
+      }
+    },
+    "5": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Padeye",
+        "PST": "('Other fixed', 'Padeye', nan)",
+        "PST_idx": [
+          4,
+          5,
+          0
+        ]
+      }
+    },
+    "6": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Clamp",
+        "PST": "('Other fixed', 'Clamp', nan)",
+        "PST_idx": [
+          4,
+          6,
+          0
+        ]
+      }
+    },
+    "7": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Valve",
+        "PST": "('Other fixed', 'Valve', nan)",
+        "PST_idx": [
+          4,
+          7,
+          0
+        ]
+      }
+    },
+    "8": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Tee-piece",
+        "PST": "('Other fixed', 'Tee-piece', nan)",
+        "PST_idx": [
+          4,
+          8,
+          0
+        ]
+      }
+    },
+    "9": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Start of weightcoat",
+        "PST": "('Other fixed', 'Start of weightcoat', nan)",
+        "PST_idx": [
+          4,
+          9,
+          0
+        ]
+      }
+    },
+    "10": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "End of weightcoat",
+        "PST": "('Other fixed', 'End of weightcoat', nan)",
+        "PST_idx": [
+          4,
+          10,
+          0
+        ]
+      }
+    },
+    "11": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Pipe bend",
+        "PST": "('Other fixed', 'Pipe bend', nan)",
+        "PST_idx": [
+          4,
+          11,
+          0
+        ]
+      }
+    },
+    "12": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Hyperbaric weld",
+        "PST": "('Other fixed', 'Hyperbaric weld', nan)",
+        "PST_idx": [
+          4,
+          12,
+          0
+        ]
+      }
+    },
+    "13": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Umbilical severance",
+        "PST": "('Other fixed', 'Umbilical severance', nan)",
+        "PST_idx": [
+          4,
+          13,
+          0
+        ]
+      }
+    },
+    "14": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Anchor pile",
+        "PST": "('Other fixed', 'Anchor pile', nan)",
+        "PST_idx": [
+          4,
+          14,
+          0
+        ]
+      }
+    },
+    "15": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Other",
+        "PST": "('Other fixed', 'Other', nan)",
+        "PST_idx": [
+          4,
+          15,
+          0
+        ]
+      }
+    },
+    "16": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Towhead",
+        "PST": "('Other fixed', 'Towhead', nan)",
+        "PST_idx": [
+          4,
+          16,
+          0
+        ]
+      }
+    },
+    "17": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Bundle Joint Collar",
+        "PST": "('Other fixed', 'Bundle Joint Collar', nan)",
+        "PST_idx": [
+          4,
+          17,
+          0
+        ]
+      }
+    },
+    "18": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Manifold",
+        "PST": "('Other fixed', 'Manifold', nan)",
+        "PST_idx": [
+          4,
+          18,
+          0
+        ]
+      }
+    },
+    "19": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Trench",
+        "PST": "('Other fixed', 'Trench', nan)",
+        "PST_idx": [
+          4,
+          19,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Trench",
+        "TertiaryDescription": "Start",
+        "PST": "('Other fixed', 'Trench', 'Start')",
+        "PST_idx": [
+          4,
+          19,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Trench",
+        "TertiaryDescription": "End",
+        "PST": "('Other fixed', 'Trench', 'End')",
+        "PST_idx": [
+          4,
+          19,
+          2
+        ]
+      }
+    },
+    "20": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Protective tunnel",
+        "PST": "('Other fixed', 'Protective tunnel', nan)",
+        "PST_idx": [
+          4,
+          20,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Protective tunnel",
+        "TertiaryDescription": "Start",
+        "PST": "('Other fixed', 'Protective tunnel', 'Start')",
+        "PST_idx": [
+          4,
+          20,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Protective tunnel",
+        "TertiaryDescription": "End",
+        "PST": "('Other fixed', 'Protective tunnel', 'End')",
+        "PST_idx": [
+          4,
+          20,
+          2
+        ]
+      }
+    },
+    "21": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "BoT scour unseen",
+        "PST": "('Other fixed', 'BoT scour unseen', nan)",
+        "PST_idx": [
+          4,
+          21,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "BoT scour unseen",
+        "TertiaryDescription": "Start",
+        "PST": "('Other fixed', 'BoT scour unseen', 'Start')",
+        "PST_idx": [
+          4,
+          21,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "BoT scour unseen",
+        "TertiaryDescription": "End",
+        "PST": "('Other fixed', 'BoT scour unseen', 'End')",
+        "PST_idx": [
+          4,
+          21,
+          2
+        ]
+      }
+    },
+    "22": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other fixed",
+        "SecondaryDescription": "Trawl snag",
+        "PST": "('Other fixed', 'Trawl snag', nan)",
+        "PST_idx": [
+          4,
+          22,
+          0
+        ]
+      }
+    }
+  },
+  "5": {
+    "1": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "W'coat spalling",
+        "PST": "('Damage', \"W'coat spalling\", nan)",
+        "PST_idx": [
+          5,
+          1,
+          0
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "W'coat rebars exposed",
+        "PST": "('Damage', \"W'coat rebars exposed\", nan)",
+        "PST_idx": [
+          5,
+          2,
+          0
+        ]
+      }
+    },
+    "3": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "Bitumen coat exposed",
+        "PST": "('Damage', 'Bitumen coat exposed', nan)",
+        "PST_idx": [
+          5,
+          3,
+          0
+        ]
+      }
+    },
+    "4": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "Metal exposed",
+        "PST": "('Damage', 'Metal exposed', nan)",
+        "PST_idx": [
+          5,
+          4,
+          0
+        ]
+      }
+    },
+    "5": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "Metal removed",
+        "PST": "('Damage', 'Metal removed', nan)",
+        "PST_idx": [
+          5,
+          5,
+          0
+        ]
+      }
+    },
+    "6": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "Epoxy coating removed",
+        "PST": "('Damage', 'Epoxy coating removed', nan)",
+        "PST_idx": [
+          5,
+          6,
+          0
+        ]
+      }
+    },
+    "7": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "Protective coat removed",
+        "PST": "('Damage', 'Protective coat removed', nan)",
+        "PST_idx": [
+          5,
+          7,
+          0
+        ]
+      }
+    },
+    "8": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "Other",
+        "PST": "('Damage', 'Other', nan)",
+        "PST_idx": [
+          5,
+          8,
+          0
+        ]
+      }
+    },
+    "9": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "Seabed scar",
+        "PST": "('Damage', 'Seabed scar', nan)",
+        "PST_idx": [
+          5,
+          9,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "Seabed scar",
+        "TertiaryDescription": "Crossing pipe",
+        "PST": "('Damage', 'Seabed scar', 'Crossing pipe')",
+        "PST_idx": [
+          5,
+          9,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "Seabed scar",
+        "TertiaryDescription": "Ending at pipe",
+        "PST": "('Damage', 'Seabed scar', 'Ending at pipe')",
+        "PST_idx": [
+          5,
+          9,
+          2
+        ]
+      }
+    },
+    "10": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "Buckling",
+        "PST": "('Damage', 'Buckling', nan)",
+        "PST_idx": [
+          5,
+          10,
+          0
+        ]
+      }
+    },
+    "11": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "Crack in metal",
+        "PST": "('Damage', 'Crack in metal', nan)",
+        "PST_idx": [
+          5,
+          11,
+          0
+        ]
+      }
+    },
+    "12": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "Equipment fault",
+        "PST": "('Damage', 'Equipment fault', nan)",
+        "PST_idx": [
+          5,
+          12,
+          0
+        ]
+      }
+    },
+    "13": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "Leak",
+        "PST": "('Damage', 'Leak', nan)",
+        "PST_idx": [
+          5,
+          13,
+          0
+        ]
+      }
+    },
+    "14": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Damage",
+        "SecondaryDescription": "Flooded member",
+        "PST": "('Damage', 'Flooded member', nan)",
+        "PST_idx": [
+          5,
+          14,
+          0
+        ]
+      }
+    }
+  },
+  "6": {
+    "1": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Debris",
+        "SecondaryDescription": "Boulder",
+        "PST": "('Debris', 'Boulder', nan)",
+        "PST_idx": [
+          6,
+          1,
+          0
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Debris",
+        "SecondaryDescription": "Netting",
+        "PST": "('Debris', 'Netting', nan)",
+        "PST_idx": [
+          6,
+          2,
+          0
+        ]
+      }
+    },
+    "3": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Debris",
+        "SecondaryDescription": "Wire rope",
+        "PST": "('Debris', 'Wire rope', nan)",
+        "PST_idx": [
+          6,
+          3,
+          0
+        ]
+      }
+    },
+    "4": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Debris",
+        "SecondaryDescription": "Soft rope",
+        "PST": "('Debris', 'Soft rope', nan)",
+        "PST_idx": [
+          6,
+          4,
+          0
+        ]
+      }
+    },
+    "5": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Debris",
+        "SecondaryDescription": "Scaffold tube",
+        "PST": "('Debris', 'Scaffold tube', nan)",
+        "PST_idx": [
+          6,
+          5,
+          0
+        ]
+      }
+    },
+    "6": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Debris",
+        "SecondaryDescription": "Anchor",
+        "PST": "('Debris', 'Anchor', nan)",
+        "PST_idx": [
+          6,
+          6,
+          0
+        ]
+      }
+    },
+    "7": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Debris",
+        "SecondaryDescription": "Metalwork",
+        "PST": "('Debris', 'Metalwork', nan)",
+        "PST_idx": [
+          6,
+          7,
+          0
+        ]
+      }
+    },
+    "8": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Debris",
+        "SecondaryDescription": "Trawlboard",
+        "PST": "('Debris', 'Trawlboard', nan)",
+        "PST_idx": [
+          6,
+          8,
+          0
+        ]
+      }
+    },
+    "9": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Debris",
+        "SecondaryDescription": "Drum",
+        "PST": "('Debris', 'Drum', nan)",
+        "PST_idx": [
+          6,
+          9,
+          0
+        ]
+      }
+    },
+    "10": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Debris",
+        "SecondaryDescription": "Tarpaulin",
+        "PST": "('Debris', 'Tarpaulin', nan)",
+        "PST_idx": [
+          6,
+          10,
+          0
+        ]
+      }
+    },
+    "11": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Debris",
+        "SecondaryDescription": "Fender",
+        "PST": "('Debris', 'Fender', nan)",
+        "PST_idx": [
+          6,
+          11,
+          0
+        ]
+      }
+    },
+    "12": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Debris",
+        "SecondaryDescription": "Chain or Cable",
+        "PST": "('Debris', 'Chain or Cable', nan)",
+        "PST_idx": [
+          6,
+          12,
+          0
+        ]
+      }
+    },
+    "13": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Debris",
+        "SecondaryDescription": "Bouy",
+        "PST": "('Debris', 'Bouy', nan)",
+        "PST_idx": [
+          6,
+          13,
+          0
+        ]
+      }
+    },
+    "14": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Debris",
+        "SecondaryDescription": "Other hard debris",
+        "PST": "('Debris', 'Other hard debris', nan)",
+        "PST_idx": [
+          6,
+          14,
+          0
+        ]
+      }
+    },
+    "15": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Debris",
+        "SecondaryDescription": "Other soft debris",
+        "PST": "('Debris', 'Other soft debris', nan)",
+        "PST_idx": [
+          6,
+          15,
+          0
+        ]
+      }
+    }
+  },
+  "7": {
+    "1": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Exposure",
+        "SecondaryDescription": "Start",
+        "PST": "('Exposure', 'Start', nan)",
+        "PST_idx": [
+          7,
+          1,
+          0
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Exposure",
+        "SecondaryDescription": "End",
+        "PST": "('Exposure', 'End', nan)",
+        "PST_idx": [
+          7,
+          2,
+          0
+        ]
+      }
+    },
+    "3": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Exposure",
+        "SecondaryDescription": "continuing",
+        "PST": "('Exposure', 'continuing', nan)",
+        "PST_idx": [
+          7,
+          3,
+          0
+        ]
+      }
+    },
+    "4": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Exposure",
+        "SecondaryDescription": "Intermittent (Start)",
+        "PST": "('Exposure', 'Intermittent (Start)', nan)",
+        "PST_idx": [
+          7,
+          4,
+          0
+        ]
+      }
+    },
+    "5": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Exposure",
+        "SecondaryDescription": "Intermittent (End)",
+        "PST": "('Exposure', 'Intermittent (End)', nan)",
+        "PST_idx": [
+          7,
+          5,
+          0
+        ]
+      }
+    },
+    "6": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Exposure",
+        "SecondaryDescription": "Anomalous Start",
+        "PST": "('Exposure', 'Anomalous Start', nan)",
+        "PST_idx": [
+          7,
+          6,
+          0
+        ]
+      }
+    },
+    "7": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Exposure",
+        "SecondaryDescription": "Anomalous End",
+        "PST": "('Exposure', 'Anomalous End', nan)",
+        "PST_idx": [
+          7,
+          7,
+          0
+        ]
+      }
+    },
+    "8": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Exposure",
+        "SecondaryDescription": "Piggyback Start",
+        "PST": "('Exposure', 'Piggyback Start', nan)",
+        "PST_idx": [
+          7,
+          8,
+          0
+        ]
+      }
+    },
+    "9": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Exposure",
+        "SecondaryDescription": "Piggyback End",
+        "PST": "('Exposure', 'Piggyback End', nan)",
+        "PST_idx": [
+          7,
+          9,
+          0
+        ]
+      }
+    }
+  },
+  "8": {
+    "1": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Span",
+        "SecondaryDescription": "Start",
+        "PST": "('Span', 'Start', nan)",
+        "PST_idx": [
+          8,
+          1,
+          0
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Span",
+        "SecondaryDescription": "End",
+        "PST": "('Span', 'End', nan)",
+        "PST_idx": [
+          8,
+          2,
+          0
+        ]
+      }
+    },
+    "3": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Span",
+        "SecondaryDescription": "touchdown",
+        "PST": "('Span', 'touchdown', nan)",
+        "PST_idx": [
+          8,
+          3,
+          0
+        ]
+      }
+    },
+    "4": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Span",
+        "SecondaryDescription": "DEI measurement",
+        "PST": "('Span', 'DEI measurement', nan)",
+        "PST_idx": [
+          8,
+          4,
+          0
+        ]
+      }
+    },
+    "5": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Span",
+        "SecondaryDescription": "continuing",
+        "PST": "('Span', 'continuing', nan)",
+        "PST_idx": [
+          8,
+          5,
+          0
+        ]
+      }
+    }
+  },
+  "9": {
+    "1": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Movement",
+        "SecondaryDescription": "Start of area",
+        "PST": "('Movement', 'Start of area', nan)",
+        "PST_idx": [
+          9,
+          1,
+          0
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Movement",
+        "SecondaryDescription": "End of area",
+        "PST": "('Movement', 'End of area', nan)",
+        "PST_idx": [
+          9,
+          2,
+          0
+        ]
+      }
+    },
+    "3": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Movement",
+        "SecondaryDescription": "area continuing",
+        "PST": "('Movement', 'area continuing', nan)",
+        "PST_idx": [
+          9,
+          3,
+          0
+        ]
+      }
+    },
+    "4": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Movement",
+        "SecondaryDescription": "Lack of stabilisation",
+        "PST": "('Movement', 'Lack of stabilisation', nan)",
+        "PST_idx": [
+          9,
+          4,
+          0
+        ]
+      }
+    }
+  },
+  "10": {
+    "1": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other feature",
+        "SecondaryDescription": "Scour",
+        "PST": "('Other feature', 'Scour', nan)",
+        "PST_idx": [
+          10,
+          1,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other feature",
+        "SecondaryDescription": "Scour",
+        "TertiaryDescription": "Start",
+        "PST": "('Other feature', 'Scour', 'Start')",
+        "PST_idx": [
+          10,
+          1,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other feature",
+        "SecondaryDescription": "Scour",
+        "TertiaryDescription": "End",
+        "PST": "('Other feature', 'Scour', 'End')",
+        "PST_idx": [
+          10,
+          1,
+          2
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other feature",
+        "SecondaryDescription": "Pockmark",
+        "PST": "('Other feature', 'Pockmark', nan)",
+        "PST_idx": [
+          10,
+          2,
+          0
+        ]
+      }
+    },
+    "3": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other feature",
+        "SecondaryDescription": "Bounce marks",
+        "PST": "('Other feature', 'Bounce marks', nan)",
+        "PST_idx": [
+          10,
+          3,
+          0
+        ]
+      }
+    },
+    "4": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Other feature",
+        "SecondaryDescription": "Drill mud",
+        "PST": "('Other feature', 'Drill mud', nan)",
+        "PST_idx": [
+          10,
+          4,
+          0
+        ]
+      }
+    }
+  },
+  "11": {
+    "1": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Weightcoat missing",
+        "SecondaryDescription": "Start of loss",
+        "PST": "('Weightcoat missing', 'Start of loss', nan)",
+        "PST_idx": [
+          11,
+          1,
+          0
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Weightcoat missing",
+        "SecondaryDescription": "End of loss",
+        "PST": "('Weightcoat missing', 'End of loss', nan)",
+        "PST_idx": [
+          11,
+          2,
+          0
+        ]
+      }
+    },
+    "3": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Weightcoat missing",
+        "SecondaryDescription": "loss continuing",
+        "PST": "('Weightcoat missing', 'loss continuing', nan)",
+        "PST_idx": [
+          11,
+          3,
+          0
+        ]
+      }
+    }
+  },
+  "12": {
+    "1": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Survey Section",
+        "SecondaryDescription": "Start of",
+        "PST": "('Survey Section', 'Start of', nan)",
+        "PST_idx": [
+          12,
+          1,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Survey Section",
+        "SecondaryDescription": "Start of",
+        "TertiaryDescription": "Pipe exposed",
+        "PST": "('Survey Section', 'Start of', 'Pipe exposed')",
+        "PST_idx": [
+          12,
+          1,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Survey Section",
+        "SecondaryDescription": "Start of",
+        "TertiaryDescription": "Pipe buried",
+        "PST": "('Survey Section', 'Start of', 'Pipe buried')",
+        "PST_idx": [
+          12,
+          1,
+          2
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Survey Section",
+        "SecondaryDescription": "End of",
+        "PST": "('Survey Section', 'End of', nan)",
+        "PST_idx": [
+          12,
+          2,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Survey Section",
+        "SecondaryDescription": "End of",
+        "TertiaryDescription": "Pipe Exposed",
+        "PST": "('Survey Section', 'End of', 'Pipe Exposed')",
+        "PST_idx": [
+          12,
+          2,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Survey Section",
+        "SecondaryDescription": "End of",
+        "TertiaryDescription": "Pipe Buried",
+        "PST": "('Survey Section', 'End of', 'Pipe Buried')",
+        "PST_idx": [
+          12,
+          2,
+          2
+        ]
+      }
+    }
+  },
+  "13": {
+    "1": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Video",
+        "SecondaryDescription": "Start",
+        "PST": "('Video', 'Start', nan)",
+        "PST_idx": [
+          13,
+          1,
+          0
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Video",
+        "SecondaryDescription": "End",
+        "PST": "('Video', 'End', nan)",
+        "PST_idx": [
+          13,
+          2,
+          0
+        ]
+      }
+    },
+    "3": {
+      "0": {
+        "non_full_visual": 1,
+        "structural_inspection": 0,
+        "PrimaryDescription": "Video",
+        "SecondaryDescription": "Pause",
+        "PST": "('Video', 'Pause', nan)",
+        "PST_idx": [
+          13,
+          3,
+          0
+        ]
+      }
+    }
+  },
+  "14": {
+    "1": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "As built difference",
+        "SecondaryDescription": "observed",
+        "PST": "('As built difference', 'observed', nan)",
+        "PST_idx": [
+          14,
+          1,
+          0
+        ]
+      }
+    }
+  },
+  "15": {
+    "1": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Condition",
+        "SecondaryDescription": "Corrosion",
+        "PST": "('Condition', 'Corrosion', nan)",
+        "PST_idx": [
+          15,
+          1,
+          0
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Condition",
+        "SecondaryDescription": "Access",
+        "PST": "('Condition', 'Access', nan)",
+        "PST_idx": [
+          15,
+          2,
+          0
+        ]
+      }
+    },
+    "3": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Condition",
+        "SecondaryDescription": "Bolt",
+        "PST": "('Condition', 'Bolt', nan)",
+        "PST_idx": [
+          15,
+          3,
+          0
+        ]
+      }
+    },
+    "4": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Condition",
+        "SecondaryDescription": "Defect",
+        "PST": "('Condition', 'Defect', nan)",
+        "PST_idx": [
+          15,
+          4,
+          0
+        ]
+      }
+    },
+    "5": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Condition",
+        "SecondaryDescription": "Deposit",
+        "PST": "('Condition', 'Deposit', nan)",
+        "PST_idx": [
+          15,
+          5,
+          0
+        ]
+      }
+    }
+  },
+  "16": {
+    "1": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Measurement",
+        "SecondaryDescription": "Wall thickness",
+        "PST": "('Measurement', 'Wall thickness', nan)",
+        "PST_idx": [
+          16,
+          1,
+          0
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Measurement",
+        "SecondaryDescription": "CP stab",
+        "PST": "('Measurement', 'CP stab', nan)",
+        "PST_idx": [
+          16,
+          2,
+          0
+        ]
+      }
+    }
+  },
+  "17": {
+    "1": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Hard",
+        "PST": "('Marine growth', 'Hard', nan)",
+        "PST_idx": [
+          17,
+          1,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Hard",
+        "TertiaryDescription": "0-25% covered",
+        "PST": "('Marine growth', 'Hard', '0-25% covered')",
+        "PST_idx": [
+          17,
+          1,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Hard",
+        "TertiaryDescription": "25-50% covered",
+        "PST": "('Marine growth', 'Hard', '25-50% covered')",
+        "PST_idx": [
+          17,
+          1,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Hard",
+        "TertiaryDescription": "50-75% covered",
+        "PST": "('Marine growth', 'Hard', '50-75% covered')",
+        "PST_idx": [
+          17,
+          1,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Hard",
+        "TertiaryDescription": "75-100% covered",
+        "PST": "('Marine growth', 'Hard', '75-100% covered')",
+        "PST_idx": [
+          17,
+          1,
+          4
+        ]
+      }
+    },
+    "2": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Soft",
+        "PST": "('Marine growth', 'Soft', nan)",
+        "PST_idx": [
+          17,
+          2,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Soft",
+        "TertiaryDescription": "0-25% covered",
+        "PST": "('Marine growth', 'Soft', '0-25% covered')",
+        "PST_idx": [
+          17,
+          2,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Soft",
+        "TertiaryDescription": "25-50% covered",
+        "PST": "('Marine growth', 'Soft', '25-50% covered')",
+        "PST_idx": [
+          17,
+          2,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Soft",
+        "TertiaryDescription": "50-75% covered",
+        "PST": "('Marine growth', 'Soft', '50-75% covered')",
+        "PST_idx": [
+          17,
+          2,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Soft",
+        "TertiaryDescription": "75-100% covered",
+        "PST": "('Marine growth', 'Soft', '75-100% covered')",
+        "PST_idx": [
+          17,
+          2,
+          4
+        ]
+      }
+    },
+    "3": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Mixed",
+        "PST": "('Marine growth', 'Mixed', nan)",
+        "PST_idx": [
+          17,
+          3,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Mixed",
+        "TertiaryDescription": "0-25% covered",
+        "PST": "('Marine growth', 'Mixed', '0-25% covered')",
+        "PST_idx": [
+          17,
+          3,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Mixed",
+        "TertiaryDescription": "25-50% covered",
+        "PST": "('Marine growth', 'Mixed', '25-50% covered')",
+        "PST_idx": [
+          17,
+          3,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Mixed",
+        "TertiaryDescription": "50-75% covered",
+        "PST": "('Marine growth', 'Mixed', '50-75% covered')",
+        "PST_idx": [
+          17,
+          3,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Mixed",
+        "TertiaryDescription": "75-100% covered",
+        "PST": "('Marine growth', 'Mixed', '75-100% covered')",
+        "PST_idx": [
+          17,
+          3,
+          4
+        ]
+      }
+    },
+    "4": {
+      "0": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Overlaid",
+        "PST": "('Marine growth', 'Overlaid', nan)",
+        "PST_idx": [
+          17,
+          4,
+          0
+        ]
+      },
+      "1": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Overlaid",
+        "TertiaryDescription": "0-25% covered",
+        "PST": "('Marine growth', 'Overlaid', '0-25% covered')",
+        "PST_idx": [
+          17,
+          4,
+          1
+        ]
+      },
+      "2": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Overlaid",
+        "TertiaryDescription": "25-50% covered",
+        "PST": "('Marine growth', 'Overlaid', '25-50% covered')",
+        "PST_idx": [
+          17,
+          4,
+          2
+        ]
+      },
+      "3": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Overlaid",
+        "TertiaryDescription": "50-75% covered",
+        "PST": "('Marine growth', 'Overlaid', '50-75% covered')",
+        "PST_idx": [
+          17,
+          4,
+          3
+        ]
+      },
+      "4": {
+        "non_full_visual": 0,
+        "structural_inspection": 1,
+        "PrimaryDescription": "Marine growth",
+        "SecondaryDescription": "Overlaid",
+        "TertiaryDescription": "75-100% covered",
+        "PST": "('Marine growth', 'Overlaid', '75-100% covered')",
+        "PST_idx": [
+          17,
+          4,
+          4
+        ]
+      }
+    }
+  }
+}
