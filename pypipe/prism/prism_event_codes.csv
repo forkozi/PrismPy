@@ -1,0 +1,212 @@
+non_full_visual,structural_inspection,Primary,Secondary,Tertiary,PrimaryDescription,SecondaryDescription,TertiaryDescription
+1,0,0,0,0,Nav-marker,,
+1,0,1,1,0,Anode,Bracelet,
+0,0,1,1,1,Anode,Bracelet,slight wastage (0-25%)
+0,0,1,1,2,Anode,Bracelet,moderate wastage (25-50%)
+0,0,1,1,3,Anode,Bracelet,heavy wastage (50-75%)
+0,0,1,1,4,Anode,Bracelet,total wastage (75-100%)
+0,0,1,1,5,Anode,Bracelet,clamp only seen
+0,0,1,1,6,Anode,Bracelet,buried
+0,0,1,2,0,Anode,Remote clamp,
+0,0,1,2,1,Anode,Remote clamp,slight wastage
+0,0,1,2,2,Anode,Remote clamp,moderate wastage
+0,0,1,2,3,Anode,Remote clamp,heavy wastage
+0,0,1,2,4,Anode,Remote clamp,total wastage
+0,0,1,2,5,Anode,Remote clamp,clamp only seen
+0,0,1,2,6,Anode,Remote clamp,buried
+1,0,1,3,0,Anode,Remote sled,
+0,0,1,3,1,Anode,Remote sled,slight wastage
+0,0,1,3,2,Anode,Remote sled,moderate wastage
+0,0,1,3,3,Anode,Remote sled,heavy wastage
+0,0,1,3,4,Anode,Remote sled,total wastage
+0,0,1,3,5,Anode,Remote sled,clamp only seen
+0,0,1,3,6,Anode,Remote sled,buried
+0,0,1,4,0,Anode,Bar,
+1,0,2,1,0,Field Joint,Normal,
+1,0,2,2,0,Field Joint,Buckle arrestor,
+1,0,3,1,0,Stabilisation,Concrete saddle,
+1,0,3,1,1,Stabilisation,Concrete saddle,Start
+1,0,3,1,2,Stabilisation,Concrete saddle,End
+1,0,3,1,3,Stabilisation,Concrete saddle,continuing
+1,0,3,1,4,Stabilisation,Concrete saddle,displaced
+1,0,3,2,0,Stabilisation,Canvas mattress,
+1,0,3,2,1,Stabilisation,Canvas mattress,Start
+1,0,3,2,2,Stabilisation,Canvas mattress,End
+1,0,3,2,3,Stabilisation,Canvas mattress,continuing
+1,0,3,2,4,Stabilisation,Canvas mattress,displaced
+1,0,3,3,0,Stabilisation,Netting mattress,
+1,0,3,3,1,Stabilisation,Netting mattress,Start
+1,0,3,3,2,Stabilisation,Netting mattress,End
+1,0,3,3,3,Stabilisation,Netting mattress,continuing
+1,0,3,3,4,Stabilisation,Netting mattress,displaced
+1,0,3,4,0,Stabilisation,Flexiweight,
+1,0,3,4,1,Stabilisation,Flexiweight,Start
+1,0,3,4,2,Stabilisation,Flexiweight,End
+1,0,3,4,3,Stabilisation,Flexiweight,continuing
+1,0,3,4,4,Stabilisation,Flexiweight,displaced
+1,0,3,5,0,Stabilisation,Mattress,
+1,0,3,5,1,Stabilisation,Mattress,Start
+1,0,3,5,2,Stabilisation,Mattress,End
+1,0,3,5,3,Stabilisation,Mattress,continuing
+1,0,3,5,4,Stabilisation,Mattress,displaced
+1,0,3,6,0,Stabilisation,Artificial seaweed,
+1,0,3,6,1,Stabilisation,Artificial seaweed,Start
+1,0,3,6,2,Stabilisation,Artificial seaweed,End
+1,0,3,6,3,Stabilisation,Artificial seaweed,continuing
+1,0,3,6,4,Stabilisation,Artificial seaweed,Displaced
+1,0,3,7,0,Stabilisation,Rockdump,
+1,0,3,7,1,Stabilisation,Rockdump,Start
+1,0,3,7,2,Stabilisation,Rockdump,End
+1,0,3,7,3,Stabilisation,Rockdump,continuing
+1,0,3,7,4,Stabilisation,Rockdump,displaced
+1,0,3,8,0,Stabilisation,Sandbag(s),
+1,0,3,8,1,Stabilisation,Sandbag(s),Start
+1,0,3,8,2,Stabilisation,Sandbag(s),End
+1,0,3,8,3,Stabilisation,Sandbag(s),continuing
+1,0,3,8,4,Stabilisation,Sandbag(s),displaced
+1,0,3,9,0,Stabilisation,Groutbag(s),
+1,0,3,9,1,Stabilisation,Groutbag(s),Start
+1,0,3,9,2,Stabilisation,Groutbag(s),End
+1,0,3,9,3,Stabilisation,Groutbag(s),continuing
+1,0,3,9,4,Stabilisation,Groutbag(s),Over
+1,0,3,9,5,Stabilisation,Groutbag(s),Under
+1,0,3,10,0,Stabilisation,Grout mattresses,
+1,0,3,10,1,Stabilisation,Grout mattresses,Start
+1,0,3,10,2,Stabilisation,Grout mattresses,End
+1,0,3,10,3,Stabilisation,Grout mattresses,continuing
+1,0,3,10,4,Stabilisation,Grout mattresses,Over
+1,0,3,10,5,Stabilisation,Grout mattresses,Under
+1,0,3,11,0,Stabilisation,Self burial spoiler,
+1,0,3,11,1,Stabilisation,Self burial spoiler,Start
+1,0,3,11,2,Stabilisation,Self burial spoiler,End
+1,0,3,11,3,Stabilisation,Self burial spoiler,continuing
+1,0,3,11,4,Stabilisation,Self burial spoiler,displaced
+1,0,3,12,0,Stabilisation,Gravel Dump,
+1,0,3,12,1,Stabilisation,Gravel Dump,Start
+1,0,3,12,2,Stabilisation,Gravel Dump,End
+1,0,3,12,4,Stabilisation,Gravel Dump,displaced
+1,0,4,1,0,Other fixed,Pipeline crossing,
+1,0,4,1,1,Other fixed,Pipeline crossing,Over
+1,0,4,1,2,Other fixed,Pipeline crossing,Under
+1,0,4,2,0,Other fixed,Protective structure,
+0,0,4,3,0,Other fixed,Bellmouth,
+1,0,4,4,0,Other fixed,Flange,
+0,0,4,5,0,Other fixed,Padeye,
+0,0,4,6,0,Other fixed,Clamp,
+0,0,4,7,0,Other fixed,Valve,
+1,0,4,8,0,Other fixed,Tee-piece,
+1,0,4,9,0,Other fixed,Start of weightcoat,
+1,0,4,10,0,Other fixed,End of weightcoat,
+1,0,4,11,0,Other fixed,Pipe bend,
+0,0,4,12,0,Other fixed,Hyperbaric weld,
+0,0,4,13,0,Other fixed,Umbilical severance,
+1,0,4,14,0,Other fixed,Anchor pile,
+1,0,4,15,0,Other fixed,Other,
+1,0,4,16,0,Other fixed,Towhead,
+0,0,4,17,0,Other fixed,Bundle Joint Collar,
+0,0,4,18,0,Other fixed,Manifold,
+1,0,4,19,0,Other fixed,Trench,
+1,0,4,19,1,Other fixed,Trench,Start
+1,0,4,19,2,Other fixed,Trench,End
+1,0,4,20,0,Other fixed,Protective tunnel,
+1,0,4,20,1,Other fixed,Protective tunnel,Start
+1,0,4,20,2,Other fixed,Protective tunnel,End
+1,0,4,21,0,Other fixed,BoT scour unseen,
+1,0,4,21,1,Other fixed,BoT scour unseen,Start
+1,0,4,21,2,Other fixed,BoT scour unseen,End
+1,0,4,22,0,Other fixed,Trawl snag,
+0,0,5,1,0,Damage,W'coat spalling,
+0,0,5,2,0,Damage,W'coat rebars exposed,
+0,0,5,3,0,Damage,Bitumen coat exposed,
+0,0,5,4,0,Damage,Metal exposed,
+0,0,5,5,0,Damage,Metal removed,
+0,0,5,6,0,Damage,Epoxy coating removed,
+0,0,5,7,0,Damage,Protective coat removed,
+0,0,5,8,0,Damage,Other,
+1,0,5,9,0,Damage,Seabed scar,
+1,0,5,9,1,Damage,Seabed scar,Crossing pipe
+1,0,5,9,2,Damage,Seabed scar,Ending at pipe
+1,0,5,10,0,Damage,Buckling,
+0,0,5,11,0,Damage,Crack in metal,
+0,0,5,12,0,Damage,Equipment fault,
+0,0,5,13,0,Damage,Leak,
+0,0,5,14,0,Damage,Flooded member,
+1,0,6,1,0,Debris,Boulder,
+1,0,6,2,0,Debris,Netting,
+1,0,6,3,0,Debris,Wire rope,
+1,0,6,4,0,Debris,Soft rope,
+1,0,6,5,0,Debris,Scaffold tube,
+1,0,6,6,0,Debris,Anchor,
+1,0,6,7,0,Debris,Metalwork,
+1,0,6,8,0,Debris,Trawlboard,
+1,0,6,9,0,Debris,Drum,
+1,0,6,10,0,Debris,Tarpaulin,
+1,0,6,11,0,Debris,Fender,
+1,0,6,12,0,Debris,Chain or Cable,
+1,0,6,13,0,Debris,Bouy,
+1,0,6,14,0,Debris,Other hard debris,
+1,0,6,15,0,Debris,Other soft debris,
+1,0,7,1,0,Exposure,Start,
+1,0,7,2,0,Exposure,End,
+1,0,7,3,0,Exposure,continuing,
+1,0,7,4,0,Exposure,Intermittent (Start),
+1,0,7,5,0,Exposure,Intermittent (End),
+1,0,7,6,0,Exposure,Anomalous Start,
+1,0,7,7,0,Exposure,Anomalous End,
+1,0,7,8,0,Exposure,Piggyback Start,
+1,0,7,9,0,Exposure,Piggyback End,
+1,0,8,1,0,Span,Start,
+1,0,8,2,0,Span,End,
+1,0,8,3,0,Span,touchdown,
+0,0,8,4,0,Span,DEI measurement,
+1,0,8,5,0,Span,continuing,
+1,0,9,1,0,Movement,Start of area,
+1,0,9,2,0,Movement,End of area,
+1,0,9,3,0,Movement,area continuing,
+1,0,9,4,0,Movement,Lack of stabilisation,
+1,0,10,1,0,Other feature,Scour,
+1,0,10,1,1,Other feature,Scour,Start
+1,0,10,1,2,Other feature,Scour,End
+1,0,10,2,0,Other feature,Pockmark,
+1,0,10,3,0,Other feature,Bounce marks,
+0,0,10,4,0,Other feature,Drill mud,
+1,0,11,1,0,Weightcoat missing,Start of loss,
+1,0,11,2,0,Weightcoat missing,End of loss,
+1,0,11,3,0,Weightcoat missing,loss continuing,
+1,0,12,1,0,Survey Section,Start of,
+1,0,12,1,1,Survey Section,Start of,Pipe exposed
+1,0,12,1,2,Survey Section,Start of,Pipe buried
+1,0,12,2,0,Survey Section,End of,
+1,0,12,2,1,Survey Section,End of,Pipe Exposed
+1,0,12,2,2,Survey Section,End of,Pipe Buried
+1,0,13,1,0,Video,Start,
+1,0,13,2,0,Video,End,
+1,0,13,3,0,Video,Pause,
+0,1,14,1,0,As built difference,observed,
+0,1,15,1,0,Condition,Corrosion,
+0,1,15,2,0,Condition,Access,
+0,1,15,3,0,Condition,Bolt,
+0,1,15,4,0,Condition,Defect,
+0,1,15,5,0,Condition,Deposit,
+0,1,16,1,0,Measurement,Wall thickness,
+0,1,16,2,0,Measurement,CP stab,
+0,1,17,1,0,Marine growth,Hard,
+0,1,17,1,1,Marine growth,Hard,0-25% covered
+0,1,17,1,2,Marine growth,Hard,25-50% covered
+0,1,17,1,3,Marine growth,Hard,50-75% covered
+0,1,17,1,4,Marine growth,Hard,75-100% covered
+0,1,17,2,0,Marine growth,Soft,
+0,1,17,2,1,Marine growth,Soft,0-25% covered
+0,1,17,2,2,Marine growth,Soft,25-50% covered
+0,1,17,2,3,Marine growth,Soft,50-75% covered
+0,1,17,2,4,Marine growth,Soft,75-100% covered
+0,1,17,3,0,Marine growth,Mixed,
+0,1,17,3,1,Marine growth,Mixed,0-25% covered
+0,1,17,3,2,Marine growth,Mixed,25-50% covered
+0,1,17,3,3,Marine growth,Mixed,50-75% covered
+0,1,17,3,4,Marine growth,Mixed,75-100% covered
+0,1,17,4,0,Marine growth,Overlaid,
+0,1,17,4,1,Marine growth,Overlaid,0-25% covered
+0,1,17,4,2,Marine growth,Overlaid,25-50% covered
+0,1,17,4,3,Marine growth,Overlaid,50-75% covered
+0,1,17,4,4,Marine growth,Overlaid,75-100% covered
